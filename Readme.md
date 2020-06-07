@@ -1,2 +1,2 @@
-# Contants
+# Description
 This repository contains ml algorithms 
